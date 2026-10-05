@@ -13,6 +13,9 @@ In the video: at least three runs — one invalid input, one that lands in the `
 
 **Your demo:** _add your link here_
 
+https://www.loom.com/share/da621fab86d74f37adb875e0e1264f92
+
+
 
 ## What to build
 A small set of rules with an answer for every input. Pass / warn / fail, or admit / waitlist / deny — pick a pair of inputs and a set of rules you can explain out loud. Two inputs change the decision. One branch catches values that make no sense. The README carries a decision table so a grader can check every path without running the program.
